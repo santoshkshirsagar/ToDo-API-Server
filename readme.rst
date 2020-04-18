@@ -33,4 +33,22 @@ Body/Payload : {
 }
 
 
+**************************
+Delte Item
+**************************
+
+URL - {base-url}api/delte
+Method : PUT
+Body/Payload : {
+	"id" : 2
+}
+
+**************************
+List Items
+**************************
+
+URL - {base-url}api/list
+Method : GET
+
+
 
