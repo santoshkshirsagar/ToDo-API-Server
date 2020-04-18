@@ -34,7 +34,7 @@ Body/Payload : {
 
 
 **************************
-Delte Item
+Delete Item
 **************************
 
 URL - {base-url}api/delte
